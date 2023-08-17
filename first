@@ -1,2 +1,7 @@
-create a file
-second files
+class Change
+{
+public static void main(String [] args)
+{
+Sout("hii da ilan ,,study well");
+}
+}
